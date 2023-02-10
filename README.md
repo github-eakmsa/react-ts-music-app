@@ -2,7 +2,7 @@
 A repository for sample music app using react and typescript 
 
 ## Home page
-![Home page](/home.png?raw=true "home page")
+![Home page](screenshots/home.png?raw=true "home page")
 
 ## Search page
 ![Search page](/search.png?raw=true "Search page")
